@@ -20,7 +20,7 @@
     
     
     /* Mailchimp setting. */
-    define('MC_APIKEY', 'b559b183bec9f8ac6274901c0a466a1e-us17'); // Your API key from here - http://admin.mailchimp.com/account/api
+    define('MC_APIKEY', ''); // Your API key from here - http://admin.mailchimp.com/account/api
     
     /* Campaign Monitor setting. */
     define('CM_APIKEY', ''); // Your APIKEY from here - https://pixfort.createsend.com/admin/account/
